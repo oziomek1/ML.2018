@@ -1,2 +1,5 @@
 # ML.2018
-#### This is another tier of my learning the machine learning topic
+
+## This repository is strictly related with studies
+
+#### This is another tier of learning the machine learning topic
